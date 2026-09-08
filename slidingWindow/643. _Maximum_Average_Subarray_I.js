@@ -12,5 +12,8 @@ var findMaxAverage = function (nums, k) {
     }
 
     return mxSum;
-
 };
+
+
+
+const findMaxAverageSliding = () =>{};
